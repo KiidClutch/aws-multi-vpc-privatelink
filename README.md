@@ -32,3 +32,19 @@ Internal Network Load Balancer
 Target Group
         │
 Private EC2
+
+## Documentation
+
+Detailed documentation is available here:
+
+[Multi-VPC-Networking-with-AWS-PrivateLink.pdf](https://github.com/user-attachments/files/29753145/Multi-VPC-Networking-with-AWS-PrivateLink.pdf)
+
+## Author
+
+**Dwayne Cowart**
+
+Cloud Engineer
+
+📧 dcowart87@gmail.com
+
+LinkedIn: www.linkedin.com/in/dwayne-cowart
